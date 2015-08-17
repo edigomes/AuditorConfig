@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AuditorConfig</string>
+
+    <string name="saida">Saída do Servidor</string>
+    <string name="url_servico">http://179.188.1.8/upload/</string>
+    <string name="id_loja">122</string>
+    <string name="id_terminal">001</string>
+    <string name="cupons_path">/storage/emulated/0/FastBurstCamera/</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
